@@ -6,11 +6,11 @@
 * **Group Number:** G06
 * **Module:** Campus Help Desk
 * **Group Label:** team-06
-* **Product Owner:** Member 1
-* **Story Writer:** Member 2
-* **Task Planner:** Member 3
-* **Tester:** Member 4
-* **Reviewer:** Member 5
+* **Product Owner:** Ayesha
+* **Story Writer:** Laiba
+* **Task Planner:** Ayisha
+* **Tester:** Hamd
+* **Reviewer:** group
 
 ---
 
